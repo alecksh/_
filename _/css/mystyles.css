@@ -1,0 +1,23 @@
+body { padding-top: 70px; }
+@media screen and (max-width: 768px) {
+    body { padding-top: 0px; }
+}
+
+.categories-container{
+	background-color: #EEEEEE;
+}
+
+.categories-list {
+	padding: 10%;
+}
+
+li {
+	border-bottom: 1px solid #333;
+	padding-bottom: 5px;
+	text-
+}
+
+.post-main {
+	padding: 5px;
+	background-color: #EEEEEE;
+}
