@@ -17,7 +17,12 @@ li {
 	text-
 }
 
-.post-main {
+.post-main{
+	padding: 5px;
+	background-color: #EEEEEE;
+}
+
+ .picsloc-main{
 	padding: 5px;
 	background-color: #EEEEEE;
 }
