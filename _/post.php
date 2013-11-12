@@ -35,13 +35,17 @@
                 <textarea class="form-control" rows="10"></textarea>
               </div>
                 <form role="form">
-                  <div class="form-group">
-                    <label for="postEmail">Reply to</label>
-                    <input type="email" class="form-control" id="postEmail" placeholder="Enter your email">
-                  </div>
-                  <div class="form-group">
-                    <input type="email" class="form-control" id="postEmail" placeholder="Enter your email again">
-                  </div>
+                  <section class="row">
+                    <div class="form-group col-lg-4">
+                      <label for="postEmail">Reply to</label>
+                      <input type="email" class="form-control" id="postEmail" placeholder="Enter your email">
+                    </div>
+                  </section>
+                  <section class="row">
+                    <div class="form-group col-lg-4">
+                      <input type="email" class="form-control" id="postEmail" placeholder="Enter your email again">
+                    </div>
+                  </section>
                 </form>
             </div> <!-- post-main -->
           </div>
