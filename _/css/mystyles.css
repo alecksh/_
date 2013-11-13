@@ -11,7 +11,7 @@ body { padding-top: 70px; }
 	padding: 10%;
 }
 
-li {
+.category-items {
 	border-bottom: 1px solid #333;
 	padding-bottom: 5px;
 	text-
@@ -25,4 +25,35 @@ li {
  .picsloc-main{
 	padding: 5px;
 	background-color: #EEEEEE;
+}
+
+ .pics-upload{
+	padding: 5px;
+	background-color: #EEEEEE;
+
+}
+
+.tab-content-style {
+	background-color: #FFFFFF;
+}
+
+.loc-heading {
+	text-indent: 100px;
+}
+
+.loc-list {
+	padding-right: 0px;
+	padding-left: 0px;
+	margin-bottom: 0px;
+
+}
+
+.loc-list:first-child{
+	padding-left: 15px;
+	padding-right: 0px;
+}
+
+.loc-list:last-child{
+	padding-right: 15px;
+	padding-left: 0px;
 }

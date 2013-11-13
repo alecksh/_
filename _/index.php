@@ -16,44 +16,44 @@
           <div class="row categories-container">
             <section class="col-lg-3">
               <ul class="text-center list-unstyled categories-list">
-                  <li><a href="#">appliances</a></li>
-                  <li><a href="#">arts+crafts</a></li>
-                  <li><a href="#">beauty</a></li>
-                  <li><a href="#">cars+trucks</a></li>
-                  <li><a href="#">cds/dvds</a></li>
-                  <li><a href="#">cell phones</a></li>
+                  <li class="category-items"><a href="#">appliances</a></li>
+                  <li class="category-items"><a href="#">arts+crafts</a></li>
+                  <li class="category-items"><a href="#">beauty</a></li>
+                  <li class="category-items"><a href="#">cars+trucks</a></li>
+                  <li class="category-items"><a href="#">cds/dvds</a></li>
+                  <li class="category-items"><a href="#">cell phones</a></li>
               </ul>
             </section>
 
             <section class="col-lg-3">
               <ul class="text-center list-unstyled categories-list">
-                  <li><a href="#">clothes+accessories</a></li>
-                  <li><a href="#">electronics</a></li>
-                  <li><a href="#">motorcycles</a></li>
-                  <li><a href="#">musical instruments</a></li>
-                  <li><a href="#">photo+video</a></li>
-                  <li><a href="#">toys+games</a></li>
+                  <li class="category-items"><a href="#">clothes+accessories</a></li>
+                  <li class="category-items"><a href="#">electronics</a></li>
+                  <li class="category-items"><a href="#">motorcycles</a></li>
+                  <li class="category-items"><a href="#">musical instruments</a></li>
+                  <li class="category-items"><a href="#">photo+video</a></li>
+                  <li class="category-items"><a href="#">toys+games</a></li>
               </ul>
             </section>
 
             <section class="col-lg-3">
               <ul class="text-center list-unstyled categories-list">
-                  <li><a href="#">video games+consoles</a></li>
-                  <li><a href="#">baby+kid</a></li>
-                  <li><a href="#">bikes</a></li>
-                  <li><a href="#">books</a></li>
-                  <li><a href="#">computer</a></li>
-                  <li><a href="#">free</a></li>
+                  <li class="category-items"><a href="#">video games+consoles</a></li>
+                  <li class="category-items"><a href="#">baby+kid</a></li>
+                  <li class="category-items"><a href="#">bikes</a></li>
+                  <li class="category-items"><a href="#">books</a></li>
+                  <li class="category-items"><a href="#">computer</a></li>
+                  <li class="category-items"><a href="#">free</a></li>
               </ul>
             </section>
               <section class="col-lg-3">
               <ul class="text-center list-unstyled categories-list">
-                  <li><a href="#">furniture</a></li>
-                  <li><a href="#">general</a></li>
-                  <li><a href="#">household</a></li>
-                  <li><a href="#">jewlery</a></li>
-                  <li><a href="#">camping</a></li>
-                  <li><a href="#">wanted</a></li>
+                  <li class="category-items"><a href="#">furniture</a></li>
+                  <li class="category-items"><a href="#">general</a></li>
+                  <li class="category-items"><a href="#">household</a></li>
+                  <li class="category-items"><a href="#">jewlery</a></li>
+                  <li class="category-items"><a href="#">camping</a></li>
+                  <li class="category-items"><a href="#">wanted</a></li>
               </ul>
             </section>
           </div>
