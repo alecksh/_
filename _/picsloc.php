@@ -6,6 +6,8 @@
     <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,700,400italic' rel='stylesheet' type='text/css'>
     <link href="css/bootstrap.css" rel="stylesheet" media="screen">
     <link href="css/mystyles.css" rel="stylesheet" media="screen">
+    <script src="js/bootstrap.js"></script>
+    <script src="js/myscript.js"></script>
   </head>
   <body id="picsloc">
     <section class="container">
@@ -32,8 +34,12 @@
               <div class="form-group">
                 <label for="postPic">Upload Pictures</label>
                 <input type="file" id="postPic">
-                <p class="help-block">You can choose up to four pictures. The first picture will be used as a 
-                                      feature for your post.</p>
+                <p class="help-block">You can choose up to four pictures. The first picture will be used as the 
+                                      featured picture for your post.</p>
+                <img src="images/image1.jpg" class="img-thumbnail">
+                <img src="images/image2.jpg" class="img-thumbnail">
+                <img src="images/image3.jpg" class="img-thumbnail">
+                <img src="images/image4.jpg" class="img-thumbnail">
 
               </div>
             </div>
@@ -44,7 +50,6 @@
     </section> <!-- container -->
 
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.js"></script>
-    <script src="js/myscript.js"></script>
+
   </body>
 </html>

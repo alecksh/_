@@ -6,6 +6,9 @@
     <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,700,400italic' rel='stylesheet' type='text/css'>
     <link href="css/bootstrap.css" rel="stylesheet" media="screen">
     <link href="css/mystyles.css" rel="stylesheet" media="screen">
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/myscript.js"></script>
     
   </head>
   <body id="home">
@@ -64,7 +67,6 @@
     </section> <!-- container -->
 
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.js"></script>
-    <script src="js/myscript.js"></script>
+
   </body>
 </html>

@@ -7,6 +7,10 @@
     <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,700,400italic' rel='stylesheet' type='text/css'>
     <link href="css/bootstrap.css" rel="stylesheet" media="screen">
     <link href="css/mystyles.css" rel="stylesheet" media="screen">
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/myscript.js"></script>
+
     
   </head>
   <body id="post">
@@ -23,7 +27,7 @@
                     <input type="text" class="form-control" id="postTitle" placeholder="Post title"></input>
                   </div>
                 </section>
-                <?php include "components/php/location-post.php"; ?>
+                
               <section class="col-lg-3">
                 <div class="input-group">
                   <span class="input-group-addon">₩</span>
@@ -56,7 +60,7 @@
     </section> <!-- container -->
 
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.js"></script>
-    <script src="js/myscript.js"></script>
+    
+    
   </body>
 </html>

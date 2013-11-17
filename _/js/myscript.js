@@ -14,4 +14,4 @@
 // 		$( ".list-group" ).after( '<a href="#" class="list-group-item">'loc[l]'</a>' )
 // 	}
 
-}) //jquery is loaded
+// }) //jquery is loaded

@@ -57,3 +57,8 @@ body { padding-top: 70px; }
 	padding-right: 15px;
 	padding-left: 0px;
 }
+
+#editor{
+	overflow:scroll; 
+	max-height:300px;
+}
